@@ -5,3 +5,5 @@ B
 
 
 red do C;
+
+blue do D;
